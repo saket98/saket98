@@ -3,7 +3,7 @@
 <p align="center" ><img 
  src="https://github.com/saket98/saket98/blob/main/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif?raw=true" width="40%"/></p>
 
- <p align="center">A <b>WEB DEVELOPMENT Enthusiast</b> 🚀.</p>
+ <p align="center">A <b>WEB DEVELOPMENT Enthusiast</b> 🚀</p>
  
  <br/>
 
@@ -55,8 +55,8 @@
 <a href="https://github.com/saket98">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saket98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saket98&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saket98&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=saket98&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saket98&layout=compact&langs_count=8&theme=tokyonight"/><br/>
+  <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=saket98&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=false"/>
   
 </a>
 </p>
