@@ -9,7 +9,6 @@
 
 <h2> About Me</h2>
 
----
 
 -   💬 Ask me about <i>Nodejs, Mongodb, Express, React, Redux</i>
 
@@ -31,7 +30,6 @@
 
 <p align = "center">
  
----
 <br/>
 
 <!-- [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](#) -->
@@ -47,7 +45,6 @@
 <br/>
 <h2>Skills</h2>
 
----
 <br/>
 
 <p align = 'center'>
@@ -59,7 +56,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
----
 <br />
 <p align="center">
 <a href="https://github.com/saket98">
